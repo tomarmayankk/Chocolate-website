@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name":"Dark Chocolate",
+        "price": "₹200",
+        "image": "Images/C1.png"
+    },
+    {
+        "id": 2,
+        "name":"Milk Chocolate",
+        "price": "₹250",
+        "image": "Images/C2.png"
+    },
+    {
+        "id": 3,
+        "name":"White Chocolate",
+        "price": "₹290",
+        "image": "Images/C3.png"
+    },
+    {
+        "id": 4,
+        "name":"Hazelnut Chocolate",
+        "price": "₹200",
+        "image": "Images/C4.png"
+    },
+    {
+        "id": 5,
+        "name":"Almond Chocolate",
+        "price": "₹300",
+        "image": "Images/C5.png"
+    },
+    {
+        "id": 6,
+        "name":"Orange Chocolate",
+        "price": "₹200",
+        "image": "Images/C6.png"
+    },
+    {
+        "id": 7,
+        "name":"Mint Chocolate",
+        "price": "₹200",
+        "image": "Images/C7.png"
+    },
+    {
+        "id": 8,
+        "name":"Caramel Chocolate",
+        "price": "₹200",
+        "image": "Images/C8.png"
+    },
+    {
+        "id": 9,
+        "name":"Raspberry Chocolate",
+        "price": "₹200",
+        "image": "Images/C9.png"
+    },
+    {
+        "id": 10,
+        "name":"Strawberry Chocolate",
+        "price": "₹200",
+        "image": "Images/C10.png"
+    },
+    {
+        "id": 11,
+        "name":"Coconut Chocolate",
+        "price": "₹200",
+        "image": "Images/C11.png"
+    },
+    {
+        "id": 12,
+        "name":"Peanut Butter Chocolate",
+        "price": "₹200",
+        "image": "Images/C12.png"
+    }
+]
